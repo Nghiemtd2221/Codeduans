@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "id": "1",
+      "text": "Bài tập thở sâu",
+      "detail": "Hít thở sâu và chậm, giữ hơi thở trong vài giây, rồi từ từ thở ra.",
+      "video": "https://www.youtube.com/embed/qp1vo-ZFmXA",
+      "audio": "https://drive.google.com/uc?export=download&id=1mSfctqDbc5S_RO0KrhJFnt4jPOm2sBB0"
+    },
+    {
+      "id": "2",
+      "text": "Thiền định 10 phút",
+      "detail": "Ngồi trong tư thế thoải mái, tập trung vào hơi thở của bạn trong 10 phút.",
+      "video": "https://www.youtube.com/embed/qp1vo-ZFmXA",
+      "audio": "https://drive.google.com/uc?export=download&id=12Ah2yjBudAZieV6vHDSPGPhSAEePYeYL"
+    },
+    {
+      "id": "3",
+      "text": "Đi bộ 30 phút",
+      "detail": "Đi bộ nhanh trong 30 phút để cải thiện sức khỏe tim mạch và tinh thần.",
+      "video": "https://www.youtube.com/embed/qp1vo-ZFmXA",
+      "audio": "https://drive.google.com/uc?export=download&id=12Ah2yjBudAZieV6vHDSPGPhSAEePYeYL"
+    }
+  ]
+}
